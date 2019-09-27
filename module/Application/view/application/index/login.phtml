@@ -1,0 +1,24 @@
+
+<div class="row">
+
+    <div class="col-md-12">
+      <?php if(!empty($url)){ ?>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Redirecting to Ring Central Platform.</h3>
+            </div>
+            <div class="panel-body">
+              <p>
+            		<a class="btn btn-primary" role="button" href="<?php echo $this->url; ?>" class="allowAccessButton" style="hover" >Allow Access</a>
+            	</p>
+            </div>
+        </div>
+      <?php } ?>
+      <?php if(!empty($message)){ ?>
+            <h4>Message: <?php echo $this->message; ?></span></h4>
+      <?php } ?>
+    </div>
+
+
+
+</div>

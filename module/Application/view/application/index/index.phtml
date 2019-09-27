@@ -1,0 +1,63 @@
+<div class="jumbotron">
+    <h4>RingCentral Authorization Code Flow OAuth Using PHP</span></h4>
+</div>
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Enter Credentials</h3>
+            </div>
+            <div class="panel-body">
+              <form action="/application/login" method="GET">
+               <div class="form-group">
+                 <label for="email">Environment:</label>
+                 <input type="text" name="env" class="form-control" id="env" value="sandbox">
+               </div>
+               <div class="form-group">
+                 <label for="pwd">Client Id:</label>
+                 <input type="password" name="clientId" class="form-control" id="clientId" value="TmyaXyUITvmJvX9lc_nGJQ">
+               </div>
+               <div class="form-group">
+                 <label for="pwd">Client Secret Key:</label>
+                 <input type="password" name="clientSecret" class="form-control" id="clientSecret" value="3RnMKRoESZih5bKFQIRNTgLAD2fAOhTcGN7ZvHLxTaYw">
+               </div>
+               <button type="submit" class="btn btn-default">Submit</button>
+              </form>
+              <table class="table">
+              <tr>
+                  <th>ID</th>
+                  <th>token_type</th>
+                  <th>access_token</th>
+                  <th>expires_in</th>
+                  <th>expire_time</th>
+                  <th>refresh_token</th>
+                  <th>refresh_token_expires_in</th>
+                  <th>refresh_token_expire_time</th>
+                  <th>refresh_token_expire_time</th>
+                  <th>scope</th>
+                  <th>owner_id</th>
+              </tr>
+              <?php foreach ($creds as $cred) : ?>
+                  <tr>
+                      <td><?= $this->escapeHtml($cred->ID); ?></td>
+                      <td><?= $this->escapeHtml($cred->token_type); ?></td>
+                      <td><?= $this->escapeHtml($cred->access_token); ?></td>
+                      <td><?= $this->escapeHtml($cred->expires_in); ?></td>
+                      <td><?= $this->escapeHtml($cred->expire_time); ?></td>
+                      <td><?= $this->escapeHtml($cred->refresh_token); ?></td>
+                      <td><?= $this->escapeHtml($cred->refresh_token_expires_in); ?></td>
+                      <td><?= $this->escapeHtml($cred->refresh_token_expire_time); ?></td>
+                      <td><?= $this->escapeHtml($cred->scope); ?></td>
+                      <td><?= $this->escapeHtml($cred->owner_id); ?></td>
+                  </tr>
+              <?php endforeach; ?>
+              </table>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>

@@ -1,0 +1,12 @@
+<div class="col-md-12">
+    <?php if(!empty($message)){ ?>
+    <h4>Message: <?php echo $this->message; ?></span></h4>
+    <p> Data: <pre><?php print_r( $this->data ); ?></pre></p>
+    <?php } ?>
+    <?php if(!empty($error)){ ?>
+    <h4>Error: <?php echo $this->error; ?></span></h4>
+    <?php } ?>
+    <?php if(!empty($error_description)){ ?>
+    <h4>Erro Description: <?php echo $this->error_description; ?></span></h4>
+    <?php } ?>
+</div>

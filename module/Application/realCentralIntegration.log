@@ -1,0 +1,406 @@
+2019-09-23T12:16:22-04:00 INFO (6): Request authorization code.
+2019-09-23T12:16:43-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T12:16:43-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T12:16:45-04:00 INFO (6): Handling token server response.
+2019-09-23T13:22:02-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T13:22:02-04:00 INFO (6): Something went wrong while handling response.
+2019-09-23T13:22:28-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T13:22:28-04:00 INFO (6): Something went wrong while handling response.
+2019-09-23T13:22:33-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T13:22:33-04:00 INFO (6): Something went wrong while handling response.
+2019-09-23T13:33:55-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T13:33:55-04:00 INFO (6): Something went wrong while handling response.
+2019-09-23T13:39:14-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T13:39:14-04:00 INFO (6): Request authorization code.
+2019-09-23T13:58:08-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T13:58:08-04:00 INFO (6): Request authorization code.
+2019-09-23T13:58:14-04:00 INFO (6): Url : https://platform.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T13:58:14-04:00 INFO (6): Request authorization code.
+2019-09-23T14:02:15-04:00 INFO (6): Url : https://platform.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T14:02:15-04:00 INFO (6): Request authorization code.
+2019-09-23T14:02:23-04:00 INFO (6): Url : https://platform.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T14:02:23-04:00 INFO (6): Request authorization code.
+2019-09-23T14:02:26-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T14:02:26-04:00 INFO (6): Request authorization code.
+2019-09-23T14:02:32-04:00 INFO (6): Url : https://platform.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T14:02:32-04:00 INFO (6): Request authorization code.
+2019-09-23T14:02:38-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T14:02:38-04:00 INFO (6): Request authorization code.
+2019-09-23T14:03:33-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T14:03:33-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T14:03:35-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T14:21:30-04:00 INFO (6): Url : https://platform.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T14:21:30-04:00 INFO (6): Request authorization code.
+2019-09-23T14:21:42-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T14:21:42-04:00 INFO (6): Request authorization code.
+2019-09-23T14:21:54-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T14:21:54-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T14:21:55-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T14:22:44-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T14:22:44-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T14:22:45-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T14:32:23-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T14:32:23-04:00 INFO (6): Request authorization code.
+2019-09-23T14:32:35-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T14:32:35-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T14:32:37-04:00 INFO (6): Handling token server response.
+2019-09-23T17:41:28-04:00 INFO (6): Required information missing
+2019-09-23T17:44:15-04:00 INFO (6): Required information missing
+2019-09-23T17:44:32-04:00 INFO (6): Required information missing
+2019-09-23T17:45:33-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T17:45:33-04:00 INFO (6): Request authorization code.
+2019-09-23T17:45:59-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T17:45:59-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T17:46:01-04:00 INFO (6): Handling token server response.
+2019-09-23T18:44:10-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T18:44:10-04:00 INFO (6): Something went wrong while handling response.
+2019-09-23T18:44:13-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T18:44:13-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T18:44:14-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T19:03:53-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:03:53-04:00 INFO (6): Request authorization code.
+2019-09-23T19:03:54-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:03:54-04:00 INFO (6): Request authorization code.
+2019-09-23T19:03:55-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:03:55-04:00 INFO (6): Request authorization code.
+2019-09-23T19:03:56-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:03:56-04:00 INFO (6): Request authorization code.
+2019-09-23T19:03:56-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:03:56-04:00 INFO (6): Request authorization code.
+2019-09-23T19:04:11-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:04:11-04:00 INFO (6): Request authorization code.
+2019-09-23T19:04:36-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:04:36-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:04:38-04:00 INFO (6): Handling token server response.
+2019-09-23T19:04:47-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:04:47-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:04:48-04:00 INFO (6): Handling token server response.
+2019-09-23T19:04:58-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:04:58-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:04:59-04:00 INFO (6): Handling token server response.
+2019-09-23T19:07:57-04:00 INFO (6): Required information missing
+2019-09-23T19:08:06-04:00 INFO (6): Required information missing
+2019-09-23T19:08:14-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:08:14-04:00 INFO (6): Request authorization code.
+2019-09-23T19:08:24-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:08:24-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:08:25-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T19:25:43-04:00 INFO (6): Required information missing
+2019-09-23T19:25:46-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:25:46-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:25:48-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T19:26:17-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:26:17-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:26:18-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T19:26:24-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:26:24-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:26:26-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T19:26:30-04:00 INFO (6): Required information missing
+2019-09-23T19:26:42-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:26:42-04:00 INFO (6): Request authorization code.
+2019-09-23T19:26:52-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:26:52-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:26:53-04:00 INFO (6): Expected HTTP Error: Invalid client: TmyaXyUITvmJvX9lc_nGJQ
+2019-09-23T19:27:04-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:27:04-04:00 INFO (6): Request authorization code.
+2019-09-23T19:27:11-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:27:11-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:27:12-04:00 INFO (6): Handling token server response.
+2019-09-23T19:27:31-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:27:31-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:27:32-04:00 INFO (6): Handling token server response.
+2019-09-23T19:28:39-04:00 INFO (6): Required information missing
+2019-09-23T19:29:15-04:00 INFO (6): Required information missing
+2019-09-23T19:32:03-04:00 INFO (6): Required information missing
+2019-09-23T19:32:07-04:00 INFO (6): Required information missing
+2019-09-23T19:32:16-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:32:16-04:00 INFO (6): Request authorization code.
+2019-09-23T19:32:45-04:00 INFO (6): Required information missing
+2019-09-23T19:33:06-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:33:06-04:00 INFO (6): Request authorization code.
+2019-09-23T19:33:25-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:33:25-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:33:26-04:00 INFO (6): Handling token server response.
+2019-09-23T19:33:31-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:33:31-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:33:32-04:00 INFO (6): Handling token server response.
+2019-09-23T19:33:42-04:00 INFO (6): Required information missing
+2019-09-23T19:33:49-04:00 INFO (6): Required information missing
+2019-09-23T19:33:54-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:33:54-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:33:55-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-23T19:34:02-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:34:02-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:34:03-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-23T19:36:08-04:00 INFO (6): Required information missing
+2019-09-23T19:36:10-04:00 INFO (6): Required information missing
+2019-09-23T19:36:26-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-23T19:36:26-04:00 INFO (6): Request authorization code.
+2019-09-23T19:36:43-04:00 INFO (6): Required information missing
+2019-09-23T19:36:51-04:00 INFO (6): Handling authorization code server response.
+2019-09-23T19:36:51-04:00 INFO (6): Exchanging code for access token.
+2019-09-23T19:36:52-04:00 INFO (6): Handling token server response.
+2019-09-24T17:38:37-04:00 INFO (6): Required information missing
+2019-09-24T17:39:34-04:00 INFO (6): Required information missing
+2019-09-24T17:39:36-04:00 INFO (6): Required information missing
+2019-09-24T17:39:40-04:00 INFO (6): Required information missing
+2019-09-24T17:40:23-04:00 INFO (6): Required information missing
+2019-09-24T17:49:29-04:00 INFO (6): Required information missing
+2019-09-24T17:50:01-04:00 INFO (6): Required information missing
+2019-09-24T17:54:04-04:00 INFO (6): Required information missing
+2019-09-24T17:54:08-04:00 INFO (6): Required information missing
+2019-09-24T18:06:35-04:00 INFO (6): Required information missing
+2019-09-24T18:06:40-04:00 INFO (6): Url : https://platform.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=sad&state=myState
+2019-09-24T18:06:40-04:00 INFO (6): Request authorization code.
+2019-09-24T18:09:05-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:09:05-04:00 INFO (6): Request authorization code.
+2019-09-24T18:11:10-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:11:10-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:11:12-04:00 INFO (6): Handling token server response.
+2019-09-24T18:25:07-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:25:07-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:25:08-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T18:25:13-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:25:13-04:00 INFO (6): Request authorization code.
+2019-09-24T18:25:48-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:25:48-04:00 INFO (6): Request authorization code.
+2019-09-24T18:27:22-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:27:22-04:00 INFO (6): Request authorization code.
+2019-09-24T18:29:56-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:29:56-04:00 INFO (6): Request authorization code.
+2019-09-24T18:33:51-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:33:51-04:00 INFO (6): Request authorization code.
+2019-09-24T18:33:57-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:33:57-04:00 INFO (6): Request authorization code.
+2019-09-24T18:34:00-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:34:00-04:00 INFO (6): Request authorization code.
+2019-09-24T18:34:01-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:34:01-04:00 INFO (6): Request authorization code.
+2019-09-24T18:34:02-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:34:02-04:00 INFO (6): Request authorization code.
+2019-09-24T18:34:02-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:34:02-04:00 INFO (6): Request authorization code.
+2019-09-24T18:35:32-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:35:32-04:00 INFO (6): Request authorization code.
+2019-09-24T18:35:46-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:35:46-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:35:47-04:00 INFO (6): Handling token server response.
+2019-09-24T18:38:03-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:38:03-04:00 INFO (6): Request authorization code.
+2019-09-24T18:38:07-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:38:07-04:00 INFO (6): Request authorization code.
+2019-09-24T18:38:18-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:38:18-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:38:21-04:00 INFO (6): Handling token server response.
+2019-09-24T18:38:53-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:38:53-04:00 INFO (6): Request authorization code.
+2019-09-24T18:39:07-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:39:07-04:00 INFO (6): Request authorization code.
+2019-09-24T18:39:42-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:39:42-04:00 INFO (6): Request authorization code.
+2019-09-24T18:39:42-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:39:42-04:00 INFO (6): Request authorization code.
+2019-09-24T18:39:48-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:39:48-04:00 INFO (6): Request authorization code.
+2019-09-24T18:46:45-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:46:45-04:00 INFO (6): Request authorization code.
+2019-09-24T18:46:47-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:46:47-04:00 INFO (6): Request authorization code.
+2019-09-24T18:46:57-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:46:57-04:00 INFO (6): Request authorization code.
+2019-09-24T18:50:19-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:50:19-04:00 INFO (6): Request authorization code.
+2019-09-24T18:54:34-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:54:34-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:54:36-04:00 INFO (6): Handling token server response.
+2019-09-24T18:57:56-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:57:56-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:57:58-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T18:58:05-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T18:58:05-04:00 INFO (6): Request authorization code.
+2019-09-24T18:58:16-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:58:16-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:58:18-04:00 INFO (6): Handling token server response.
+2019-09-24T18:58:57-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:58:57-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:58:58-04:00 INFO (6): Expected HTTP Error: Invalid token
+2019-09-24T18:59:02-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T18:59:02-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T18:59:03-04:00 INFO (6): Handling token server response.
+2019-09-24T19:01:13-04:00 INFO (6): Required information missing
+2019-09-24T19:01:16-04:00 INFO (6): Required information missing
+2019-09-24T19:01:18-04:00 INFO (6): Required information missing
+2019-09-24T19:01:18-04:00 INFO (6): Required information missing
+2019-09-24T19:01:39-04:00 INFO (6): Required information missing
+2019-09-24T19:02:04-04:00 INFO (6): Required information missing
+2019-09-24T19:02:10-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T19:02:10-04:00 INFO (6): Request authorization code.
+2019-09-24T19:04:37-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:04:37-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:04:39-04:00 INFO (6): Handling token server response.
+2019-09-24T19:04:42-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:04:42-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:04:43-04:00 INFO (6): Expected HTTP Error: Invalid token
+2019-09-24T19:04:49-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:04:49-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:04:52-04:00 INFO (6): Handling token server response.
+2019-09-24T19:05:22-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:05:22-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:05:23-04:00 INFO (6): Expected HTTP Error: Basic authentication header is missing or malformed
+2019-09-24T19:06:20-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:20-04:00 INFO (6): Something went wrong while handling response.
+2019-09-24T19:06:23-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:23-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:06:25-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T19:06:28-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:28-04:00 INFO (6): Error: U0pDMTFQMDFQQVMwMHxBQURReXZNM3NBTTdjMWxzMGR0WjhmWHRGVTZKZk96OXJTUU1vNkF2UFgwenVMUUc1blB4YjU0OEdmUGpMTlVwd1V0NF9QWWRPMEVYNENYQjd4dmJsWHJoYmpEWE9MWDdpa0h1VS1QSldZSm1tSkgzUGwydFN5QjVVVlRRMmVmUXBrekhIWG1OUVY0SVVyODNtUVF3WVJMMWFMMmZkak1yUE85ak5MR3FFQWFadlF8bWNvNkxnfDVJVVhTNHhmRUhhb1JDaHhRTEdCSlF8QUE
+2019-09-24T19:06:28-04:00 INFO (6): Error Description:
+2019-09-24T19:06:33-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:33-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:06:35-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T19:06:36-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:36-04:00 INFO (6): Error: U0pDMTFQMDFQQVMwMHxBQURReXZNM3NBTTdjMWxzMGR0WjhmWHRGVTZKZk96OXJTUU1vNkF2UFgwenVMUUc1blB4YjU0OEdmUGpMTlVwd1V0NF9QWWRPMEVYNENYQjd4dmJsWHJoYmpEWE9MWDdpa0h1VS1QSldZSm1tSkgzUGwydFN5QjVVVlRRMmVmUXBrekhIWG1OUVY0SVVyODNtUVF3WVJMMWFMMmZkak1yUE85ak5MR3FFQWFadlF8bWNvNkxnfDVJVVhTNHhmRUhhb1JDaHhRTEdCSlF8QUE
+2019-09-24T19:06:36-04:00 INFO (6): Error Description:
+2019-09-24T19:06:37-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:37-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:06:39-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T19:06:39-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:39-04:00 INFO (6): Something went wrong while handling response.
+2019-09-24T19:06:41-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:41-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:06:42-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T19:06:42-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:42-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:06:44-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T19:06:45-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:45-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:06:46-04:00 INFO (6): Expected HTTP Error: Invalid token
+2019-09-24T19:06:47-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:06:47-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:06:48-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T19:06:52-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T19:06:52-04:00 INFO (6): Request authorization code.
+2019-09-24T19:07:03-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:07:03-04:00 INFO (6): Error: access_denied
+2019-09-24T19:07:03-04:00 INFO (6): Error Description: The+user+denied+access+to+your+application
+2019-09-24T19:07:39-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:07:39-04:00 INFO (6): Error: access_denied
+2019-09-24T19:07:39-04:00 INFO (6): Error Description: The+user+denied+access+to+your+application
+2019-09-24T19:08:46-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:08:46-04:00 INFO (6): Error: access_denied
+2019-09-24T19:08:46-04:00 INFO (6): Error Description: The+user+denied+access+to+your+application
+2019-09-24T19:09:59-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T19:09:59-04:00 INFO (6): Request authorization code.
+2019-09-24T19:10:11-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:10:11-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:10:13-04:00 INFO (6): Handling token server response.
+2019-09-24T19:44:09-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T19:44:09-04:00 INFO (6): Request authorization code.
+2019-09-24T19:44:38-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:44:38-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:44:40-04:00 INFO (6): Handling token server response.
+2019-09-24T19:44:47-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:44:47-04:00 INFO (6): Something went wrong while handling response.
+2019-09-24T19:44:50-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:44:50-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T19:44:51-04:00 INFO (6): Handling token server response.
+2019-09-24T19:45:46-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T19:45:46-04:00 INFO (6): Error: access_denied
+2019-09-24T19:45:46-04:00 INFO (6): Error Description: The+user+denied+access+to+your+application
+2019-09-24T20:00:15-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T20:00:15-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T20:00:16-04:00 INFO (6): Handling token server response.
+2019-09-24T20:23:08-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T20:23:08-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T20:23:09-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-24T20:24:25-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-24T20:24:25-04:00 INFO (6): Request authorization code.
+2019-09-24T20:24:38-04:00 INFO (6): Handling authorization code server response.
+2019-09-24T20:24:38-04:00 INFO (6): Exchanging code for access token.
+2019-09-24T20:24:39-04:00 INFO (6): Handling token server response.
+2019-09-25T16:52:16-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-25T16:52:16-04:00 INFO (6): Request authorization code.
+2019-09-25T16:53:05-04:00 INFO (6): Handling authorization code server response.
+2019-09-25T16:53:05-04:00 INFO (6): Exchanging code for access token.
+2019-09-25T16:53:07-04:00 INFO (6): Handling token server response.
+2019-09-25T17:36:50-04:00 INFO (6): Handling authorization code server response.
+2019-09-25T17:36:50-04:00 INFO (6): Exchanging code for access token.
+2019-09-25T17:36:51-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-25T17:36:55-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-25T17:36:55-04:00 INFO (6): Request authorization code.
+2019-09-25T17:37:25-04:00 INFO (6): Handling authorization code server response.
+2019-09-25T17:37:25-04:00 INFO (6): Exchanging code for access token.
+2019-09-25T17:37:26-04:00 INFO (6): Handling token server response.
+2019-09-25T17:37:55-04:00 INFO (6): Handling authorization code server response.
+2019-09-25T17:37:55-04:00 INFO (6): Exchanging code for access token.
+2019-09-25T17:37:57-04:00 INFO (6): Handling token server response.
+2019-09-25T17:46:28-04:00 INFO (6): Handling authorization code server response.
+2019-09-25T17:46:28-04:00 INFO (6): Exchanging code for access token.
+2019-09-25T17:46:30-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-25T17:46:37-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-25T17:46:37-04:00 INFO (6): Request authorization code.
+2019-09-25T17:46:50-04:00 INFO (6): Handling authorization code server response.
+2019-09-25T17:46:50-04:00 INFO (6): Exchanging code for access token.
+2019-09-25T17:46:51-04:00 INFO (6): Handling token server response.
+2019-09-25T18:14:23-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-25T18:14:23-04:00 INFO (6): Request authorization code.
+2019-09-25T18:15:30-04:00 INFO (6): Handling authorization code server response.
+2019-09-25T18:15:30-04:00 INFO (6): Exchanging code for access token.
+2019-09-25T18:15:32-04:00 INFO (6): Handling token server response.
+2019-09-26T15:02:01-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T15:02:01-04:00 INFO (6): Request authorization code.
+2019-09-26T15:02:17-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T15:02:17-04:00 INFO (6): Request authorization code.
+2019-09-26T16:30:49-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T16:30:49-04:00 INFO (6): Request authorization code.
+2019-09-26T16:31:08-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T16:31:08-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T16:31:10-04:00 INFO (6): Handling token server response.
+2019-09-26T17:01:55-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T17:01:55-04:00 INFO (6): Request authorization code.
+2019-09-26T17:02:15-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T17:02:15-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T17:02:17-04:00 INFO (6): Handling token server response.
+2019-09-26T17:34:18-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T17:34:18-04:00 INFO (6): Request authorization code.
+2019-09-26T17:34:38-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T17:34:38-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T17:34:39-04:00 INFO (6): Handling token server response.
+2019-09-26T17:36:08-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T17:36:08-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T17:36:10-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-26T17:36:20-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T17:36:20-04:00 INFO (6): Request authorization code.
+2019-09-26T17:36:42-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T17:36:42-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T17:36:43-04:00 INFO (6): Handling token server response.
+2019-09-26T17:37:20-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T17:37:20-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T17:37:22-04:00 INFO (6): Handling token server response.
+2019-09-26T17:53:32-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T17:53:32-04:00 INFO (6): Request authorization code.
+2019-09-26T17:53:46-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T17:53:46-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T17:53:47-04:00 INFO (6): Handling token server response.
+2019-09-26T18:02:32-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T18:02:32-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T18:02:34-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-26T18:06:36-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T18:06:36-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T18:06:37-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-26T18:06:42-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T18:06:42-04:00 INFO (6): Request authorization code.
+2019-09-26T18:06:52-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T18:06:52-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T18:06:54-04:00 INFO (6): Handling token server response.
+2019-09-26T18:07:01-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T18:07:01-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T18:07:03-04:00 INFO (6): Handling token server response.
+2019-09-26T18:08:16-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T18:08:16-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T18:08:18-04:00 INFO (6): Expected HTTP Error: Authorization code is expired
+2019-09-26T18:10:14-04:00 INFO (6): Url : https://platform.devtest.ringcentral.com/restapi/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fapplication%2Fcode&client_id=TmyaXyUITvmJvX9lc_nGJQ&state=myState
+2019-09-26T18:10:14-04:00 INFO (6): Request authorization code.
+2019-09-26T18:10:29-04:00 INFO (6): Handling authorization code server response.
+2019-09-26T18:10:29-04:00 INFO (6): Exchanging code for access token.
+2019-09-26T18:10:30-04:00 INFO (6): Handling token server response.
